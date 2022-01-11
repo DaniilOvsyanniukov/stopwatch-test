@@ -1,2 +1,0 @@
-# stopwatch-test
-stopwatch-test
